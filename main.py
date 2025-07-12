@@ -33,7 +33,7 @@ head = {
   'Content-Type': 'application/x-www-form-urlencoded'
 }
 
-gjp = "RV5DU1hQWAQDBgAG"
+gjp = ""
 
 keep_alive.keep_alive()
 
